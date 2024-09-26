@@ -1,0 +1,2 @@
+# CITS5503CapstoneProject_Group10_IndividualModelTraining
+This is the model training development for Capstone Proeject
